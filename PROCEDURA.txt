@@ -1,0 +1,22 @@
+Salve a tutti, questa è la procedura guidata per installare il client modded e per accedere al server.
+
+Requisiti:
+1 versione originale di Minecraft
+2 almeno 3 GB di RAM
+3 Java installato
+
+Procedura:
+1 (se avete java andate a 4) recativi a questo link e scaricate Java https://www.java.com/it/download/manual.jsp
+2 dopo averlo istallato controllare se il file forge-1.18.2-40.2.2-installer.jar nel pacchetto Client è già in auto avvio con Java
+3 tasto destro su forge-1.18.2-40.2.2-installer.jar apri con Java, poi chiudete l'installer e riavviate il pc
+4 se avete appena installato mincraf avviate un mondo in qualsiasi modalità in modo che il client crei i file locali
+5 avviate il file forge-1.18.2-40.2.2-installer.jar come amministratori e installate il client
+6 a questo percorso C:\Users\???\AppData\Roaming\.minecraft\mods estraete le mod dal pacchetto, per raggiungere quel percorso dovete crivere %appdata% nella barra di ricerca del vostro pc 
+7 una volta estratte le mod potete avviare il Minecraft  e avviare la partita con il pacchetto Forge che vi avrà creato e collegarvi in multiplayer a 
+
+IP Server:135.125.52.191:25604 
+
+sarà necessario fare richiesta sul cananale discord https://discord.gg/qvkHY729 riportando il proprio nome utente per essere insseriti nella lista giocatori.
+per qualsiasi domanda o chiarimenti contattate werk_obito_tln o scrivete nel gruppo telegram.
+
+
